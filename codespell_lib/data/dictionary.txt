@@ -930,6 +930,9 @@ akkumulator->accumulator
 aks->ask
 aktivate->activate
 aktivated->activated
+aktivates->activates
+aktivating->activating
+aktivation->activation
 akumulate->accumulate
 akumulated->accumulated
 akumulates->accumulates
@@ -20409,6 +20412,7 @@ resul->result
 resuling->resulting
 resulotion->resolution
 resulsets->resultsets
+resulst->results
 resultion->resolution
 resultions->resolutions
 resultung->resulting
@@ -24217,6 +24221,10 @@ underrrun->underrun
 undersacn->underscan
 understadn->understand
 understadning->understanding
+understan->understand
+understaned->understood
+understaning->understanding
+understans->understands
 understoon->understood
 understoud->understood
 undertable->understandable, understand,
