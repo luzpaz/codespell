@@ -28531,6 +28531,7 @@ trasporter->transporter
 trasports->transports
 traspose->transpose
 trasposed->transposed
+trasposing->transposing
 trasposition->transposition
 traspositions->transpositions
 traved->traversed
