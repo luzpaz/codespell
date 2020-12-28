@@ -19574,6 +19574,7 @@ operaand->operand
 operaands->operands
 operaion->operation
 operaiton->operation
+operandes->operands
 operaror->operator
 operatation->operation
 operatations->operations
@@ -23358,6 +23359,7 @@ relevence->relevance
 relevent->relevant
 relfected->reflected
 reliablity->reliability
+relie->rely, relies, relieve, really,
 relient->reliant
 religeous->religious
 religous->religious
