@@ -27307,13 +27307,18 @@ susupend->suspend
 sutable->suitable, stable,
 sutdown->shutdown
 sute->site, suite, suit,
-suttle->subtle
+sutisfaction->satisfaction
+sutisfied->satisfied
+sutisfies->satisfies
+sutisfy->satisfy
+sutisfying->satisfying
+suttle->subtle, shuttle,
 suuport->support
 suuported->supported
 suuporting->supporting
 suuports->supports
 suvenear->souvenir
-svae->save
+svae->save, suave,
 svelt->svelte
 swaer->swear
 swaers->swears
@@ -30389,7 +30394,7 @@ whiltelisting->whitelisting
 whiltelists->whitelists
 whilw->while
 whioch->which
-whiped->wiped
+whiped->wiped, whipped,
 whis->this
 whish->wish
 whishlist->wishlist
@@ -30398,6 +30403,7 @@ whitchever->whichever
 whitepsace->whitespace
 whitepsaces->whitespaces
 whith->with
+whithe->with, white,
 whithin->within
 whithout->without
 whitout->without, whiteout,
