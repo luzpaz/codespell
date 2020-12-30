@@ -7536,7 +7536,11 @@ coverge->coverage
 coverred->covered
 coverted->converted, covered, coveted,
 coverting->converting
+covnersion->conversion
 covnert->convert
+covnerted->converted
+covnerting->converting
+covnerts->converts
 covriance->covariance
 covriate->covariate
 covriates->covariates
