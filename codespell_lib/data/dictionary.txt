@@ -17953,7 +17953,7 @@ mircosoft->Microsoft
 mirgate->migrate
 mirgated->migrated
 mirgates->migrates
-miror->mirror
+miror->mirror, minor,
 mirored->mirrored
 miroring->mirroring
 mirorr->mirror
@@ -30010,7 +30010,8 @@ vetween->between
 vew->view
 veyr->very
 vhild->child
-viatnamese->vietnamese
+viatnamese->Vietnamese
+vice-fersa->vice-versa
 vice-wersa->vice-versa
 vicefersa->vice-versa
 vicewersa->vice-versa
@@ -30414,7 +30415,7 @@ whiltelisting->whitelisting
 whiltelists->whitelists
 whilw->while
 whioch->which
-whiped->wiped, whipped,
+whiped->whipped, wiped,
 whis->this, whisk,
 whish->wish
 whishlist->wishlist
