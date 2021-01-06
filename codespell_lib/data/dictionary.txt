@@ -27328,6 +27328,9 @@ sutisfies->satisfies
 sutisfy->satisfy
 sutisfying->satisfying
 suttle->subtle, shuttle,
+suttled->shuttled
+suttles->shuttles
+suttling->shuttling
 suuport->support
 suuported->supported
 suuporting->supporting
