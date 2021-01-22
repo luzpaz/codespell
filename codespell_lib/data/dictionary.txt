@@ -19207,6 +19207,7 @@ nuber->number
 nubering->numbering
 nubmer->number
 nubmers->numbers
+nucleous->nucleus, nucleolus,
 nucular->nuclear
 nuculear->nuclear
 nuisanse->nuisance
