@@ -13920,6 +13920,7 @@ glight->flight
 gloab->globe
 gloabal->global
 gloabl->global
+globablly->globally
 globbal->global
 globel->global
 glorfied->glorified
