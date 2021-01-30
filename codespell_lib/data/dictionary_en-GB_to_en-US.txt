@@ -121,6 +121,7 @@ legalised->legalized
 legalises->legalizes
 legalising->legalizing
 licence->license
+licenced->licensed
 licences->licenses
 manoeuvre->maneuver
 manoeuvres->maneuvers
