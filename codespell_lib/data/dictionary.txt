@@ -8050,6 +8050,10 @@ decalratiosn->declarations
 decapsulting->decapsulating
 decathalon->decathlon
 deccelerate->decelerate
+deccelerated->decelerated
+deccelerates->decelerates
+deccelerating->decelerating
+decceleration->deceleration
 Decemer->December
 decend->descend
 decendant->descendant
@@ -20951,6 +20955,12 @@ poiunter->pointer
 poject->project
 pojecting->projecting
 pojnt->point
+pojrect->project
+pojrected->projected
+pojrecting->projecting
+pojrection->projection
+pojrections->projections
+pojrects->projects
 poket->pocket
 polariy->polarity
 polical->political
