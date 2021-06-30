@@ -29368,6 +29368,7 @@ termperatue->temperature
 termperatues->temperatures
 termperature->temperature
 termperatures->temperatures
+teraform->terraform
 termplate->template
 termplated->templated
 termplates->templates
@@ -29379,6 +29380,7 @@ ternament->tournament
 ternimate->terminate
 terrable->terrible
 terrestial->terrestrial
+terrform->terraform
 terriffic->terrific
 terriories->territories
 terriory->territory
