@@ -29349,6 +29349,10 @@ teplmate->template
 teplmated->templated
 teplmates->templates
 tepmorarily->temporarily
+teraform->terraform
+teraformed->terraformed
+teraforming->terraforming
+teraforms->terraforms
 teridactyl->pterodactyl
 terific->terrific
 terimnate->terminate
@@ -29368,7 +29372,6 @@ termperatue->temperature
 termperatues->temperatures
 termperature->temperature
 termperatures->temperatures
-teraform->terraform
 termplate->template
 termplated->templated
 termplates->templates
@@ -29381,6 +29384,9 @@ ternimate->terminate
 terrable->terrible
 terrestial->terrestrial
 terrform->terraform
+terrformed->terraformed
+terrforming->terraforming
+terrforms->terraforms
 terriffic->terrific
 terriories->territories
 terriory->territory
